@@ -25,7 +25,7 @@
                                     <a class="dropdown-item" href="#">Notification 2</a>
                                     <a class="dropdown-item" href="#">Notification 3</a>
                                     <a class="dropdown-item" href="#">Notification 4</a>
-                                    <a class="dropdown-item" href="#">Another notification</a>
+                                    <a class="dropdown-item" href="#">Another Notification</a>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -46,8 +46,8 @@
                                     <span class="no-icon">Dropdown</span>
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <a class="dropdown-item" href="#">Action</a>
-                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Actions</a>
+                                    <a class="dropdown-item" href="#">Another actions</a>
                                     <a class="dropdown-item" href="#">Something</a>
                                     <a class="dropdown-item" href="#">Something else here</a>
                                     <div class="divider"></div>
